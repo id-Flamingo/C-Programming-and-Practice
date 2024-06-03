@@ -65,6 +65,7 @@ Solidify concepts, repetition helps with retention.
 
 # Terms
 > [!NOTE]
+> Useful to know your terms.
 
 "//" Comment out slashes
 
