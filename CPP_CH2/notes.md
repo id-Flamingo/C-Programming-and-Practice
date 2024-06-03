@@ -64,7 +64,7 @@ Integrated Development Environment, allows an environment for you to produce cod
 Solidify concepts, repetition helps with retention.
 
 # Terms
-[!NOTE]
+> [!NOTE]
 
 "//" Comment out slashes
 
