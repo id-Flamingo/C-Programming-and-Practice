@@ -64,21 +64,38 @@ Integrated Development Environment, allows an environment for you to produce cod
 Solidify concepts, repetition helps with retention.
 
 # Terms
+[!USEFUL]
 
 "//" Comment out slashes
+
 "executable" Object code which computer executes
+
 "main()" The function that must be run in every C++ program
+
 "<<" output operator
+
 "function" block of code which computer will execute
+
 "object code" source code that has been compiled
+
 "C++" Programming language
+
 "header" header file, includes declaration of variables, constants, and functions
+
 "output" what is produced by the executed code
+
 "compiler" program which translates source code to object code
+
 "#include" a library of code
+
 "source code" human readable code. The code you are learning to write
+
 "compile-time error" An error caught by the debugger during the compilation
+
 "library" some code to be accessed by the main program
+
 "statement" a part of a C++ program that specifies an action and isn't an '#include' directive
+
 "cout" a term to display text to an output
+
 "linker" program which combines object code from multiple sources into one executable file
