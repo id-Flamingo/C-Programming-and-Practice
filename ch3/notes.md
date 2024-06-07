@@ -8,4 +8,5 @@
 
 - You cannot put values of the wront type into a variable
 
-![alt text](https://github.com/id-Flamingo/image_repository_C-.git/Operators.png)
+![operators](./images/Operators.png)
+
