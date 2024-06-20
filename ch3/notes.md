@@ -51,3 +51,9 @@
 - __int__ to __double__
 
 - __int__ to __double__ is very useful as it allows us to mix __ints__ and __doubles__ in expressions.
+
+# __REVIEW__
+
+1) What is meant by the term **prompt**
+
+''' 
